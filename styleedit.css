@@ -1,0 +1,54 @@
+.containeredit{
+    display: flex;
+    flex-direction: column;
+    background-color: #fe9d97;
+    justify-content: center ;
+    align-items: center;
+    height: 600px;
+}
+.titulo{
+    color: #8a8b87;
+    justify-items: center;
+    align-items: center;
+    font-size: 20px;
+  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-width: 2px;
+}
+.configuracoes{
+    margin: 20px;
+    width: 600px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: #bded7e;
+    cursor: pointer;
+}
+.cpfenumero{
+    display: flex;
+    flex-direction: row;
+    
+}
+.conf{
+    margin: 20px;
+    width: 300px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: #bded7e;
+}
+.butaoedit{
+    margin-left: 80px;
+}
+.b{
+    width: 300px;
+    height: 30px;
+    border-radius: 20px;
+    background-color:  #bded7e;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items:left;
+    background-color:#bded7e;
+  
+}
+.b:hover{
+    background-color: #8a8b87;
+}

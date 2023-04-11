@@ -1,0 +1,69 @@
+.container{
+    background-color: #fffec8;
+    width: 100%;
+    height: 600px;
+}
+.formcad{
+    padding: 150px;
+}
+.cnome{
+    width: 950px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: #fe9d97;
+    display: flex;
+    flex-direction: row;
+   
+
+}
+.dados{
+    display:flex;
+    flex-direction: row;
+    align-content: space-between;
+  justify-content: space-between;
+  margin-right: 40px;
+}
+.cpfenum{
+    width: 400px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: #fe9d97;
+   
+   
+}
+.address{
+    width: 950px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: #fe9d97;
+    display: flex;
+    flex-direction: row;
+
+}
+.data{
+    width: 400px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: #fe9d97;
+    
+}
+.matricula{
+    width: 400px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: #fe9d97;
+ 
+}
+.btn{
+    width: 35%;
+    height: 30px;
+    background-color: #bded7e;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-left: 300px;
+    justify-content: center;
+}
+.btn:hover{
+    background-color: #84967e;
+}
+

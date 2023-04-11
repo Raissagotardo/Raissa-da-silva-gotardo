@@ -1,0 +1,29 @@
+.home{
+    background-color: #fffec8 ;
+    width:100%;
+    height: 600px;
+    
+}
+.confighome{
+width: 600px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: #fe9d97;
+    margin-left: 300px ;
+    margin-top: 80px;
+}  
+.but{
+    width: 35%;
+    height: 30px;
+    background-color: #bded7e;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-left: 400px;
+    justify-content: center;
+}
+.but:hover{
+    background-color: #84967e;
+}
+.envio{
+    margin-left:580px ;
+}
